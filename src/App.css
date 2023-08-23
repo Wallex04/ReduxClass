@@ -1,0 +1,13 @@
+.imgPics {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  border: 5px solid red;
+}
+.cover {
+  display: flex;
+}
+
+.red {
+  background-color: red;
+  color: white;
+}
